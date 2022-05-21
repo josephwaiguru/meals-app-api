@@ -1,2 +1,2 @@
-web: npm run start:prod
+web: npm run migrations:run && npm run start:prod
 
